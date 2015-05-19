@@ -8,43 +8,23 @@ namespace RomanNumerals
 {
 	public class NumberConverter
 	{
-		private string OneToEight(int num)
+		public static string Convert(int num)
 		{
-			string number = "";
-			number = (num <= 3) ? number = String.Concat(Enumerable.Repeat("I", num))
-				: (num == 4) ? number = "IV"
-				: (num == 5) ? number = "V"
-				: number = "";
+			if (num >= 1000) return "M" + Convert(num - 1000);
+			if (num >= 900) return "CM" + Convert(num - 900);
+			if (num >= 500) return "D" + Convert(num - 500);
+			if (num >= 400) return "CD" + Convert(num - 400);
+			if (num >= 100) return "C" + Convert(num - 100);            
+			if (num >= 90) return "XC" + Convert(num - 90);
+			if (num >= 50) return "L" + Convert(num - 50);
+			if (num >= 40) return "XL" + Convert(num - 40);
+			if (num >= 10) return "X" + Convert(num - 10);
+			if (num >= 9) return "IX" + Convert(num - 9);
+			if (num >= 5) return "V" + Convert(num - 5);
+			if (num >= 4) return "IV" + Convert(num - 4);
+			if (num >= 1) return "I" + Convert(num - 1);
+			return "";
 			
-			if (num > 5 && num < 9)
-			{
-				int SpareNumber = num - 5; number = Convert(5) + Convert(SpareNumber);
-			}
-
-			return number;
-		}
-
-		public string Convert(int num)
-		{
-			string number = "";
-			number = OneToEight(num);
-			if (num == 9)
-			{
-				number = "IX";
-			}
-			else if (num == 10)
-			{
-				number = "X";
-			}
-			else if (num.ToString().Contains('5') && num % 10 == 0)
-			{
-				number = "L";
-			}
-			else if (num == 1000)
-			{
-				number = "M";
-			}
-			return number;
 		}
 	}
 }
