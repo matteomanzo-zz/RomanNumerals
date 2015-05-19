@@ -1,0 +1,5 @@
+\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.dll
+\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.dll
+\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb
+\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
