@@ -1,9 +1,0 @@
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\bin\Debug\RomanNumeralsTest.dll
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\bin\Debug\RomanNumeralsTest.pdb
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\bin\Debug\RomanNumerals.dll
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\bin\Debug\RomanNumerals.pdb
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\obj\Debug\RomanNumeralsTest.csprojResolveAssemblyReference.cache
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\obj\Debug\RomanNumeralsTest.dll
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\obj\Debug\RomanNumeralsTest.pdb
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\bin\Debug\nunit.framework.dll
-\\insurance\filedata\SiteHome\IT\MClarkson\Visual Studio 2012\Projects\RomanNumerals\RomanNumeralsTest\bin\Debug\nunit.framework.xml
